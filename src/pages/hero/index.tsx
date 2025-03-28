@@ -11,7 +11,7 @@ export const HeroSection = () => {
  
   return (
     <div className="bg-black text-white -mt-4">
-      <section className="relative w-full min-h-screen flex items-center bg-[#101010] overflow-hidden">
+      <section className="relative w-full min-h-screen flex items-center bg-[#101010] overflow-hidden" >
         <div className="container mx-auto px-4 grid md:grid-cols-2 gap-8 items-center relative z-10">
           <motion.div 
             initial={{ opacity: 0, x: -50 }}
@@ -57,7 +57,7 @@ export const HeroSection = () => {
       </section>
 
       {/* Carousel Banner */}
-      <section className="bg-black">
+      <section className="bg-black" id="about" >
         <Carousel 
           plugins={[Autoplay({ delay: 5000 })]}
           className="w-full"

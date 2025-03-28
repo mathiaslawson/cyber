@@ -26,7 +26,7 @@ export const Navbar = () => {
     const element = document.getElementById(elementId);
     if (element) {
       element.scrollIntoView({ behavior: "smooth" });
-      setIsMenuOpen(false); // Close mobile menu after selection
+      setIsMenuOpen(false); 
     }
   };
 
@@ -72,33 +72,8 @@ export const Navbar = () => {
                   Home
                 </button>
               </NavigationMenuItem>
-              <NavigationMenuItem>
-                <NavigationMenuTrigger className={darkNavigationMenuStyles.trigger}>
-                  Projects
-                
-                </NavigationMenuTrigger>
-                <NavigationMenuContent>
-                  <ul className={`grid w-[200px] gap-3 p-4 ${darkNavigationMenuStyles.content} border-none`}>
-                    <li>
-                      <Link
-                        to="/projects/web-design"
-                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
-                      >
-                        Web Design
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/projects/development"
-                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
-                      >
-                        Development
-                      </Link>
-                    </li>
-                  </ul>
-                </NavigationMenuContent>
-              </NavigationMenuItem>
-              {["About", "Services", "Contact"].map((section) => (
+
+    {["About"].map((section) => (
                 <NavigationMenuItem key={section}>
                   <button
                     onClick={() => scrollToSection(section.toLowerCase())}
@@ -108,6 +83,80 @@ export const Navbar = () => {
                   </button>
                 </NavigationMenuItem>
               ))}
+
+              <NavigationMenuItem>
+                <NavigationMenuTrigger className={darkNavigationMenuStyles.trigger}>
+                  Our Services
+                
+                </NavigationMenuTrigger>
+                <NavigationMenuContent>
+                  <ul className={`grid w-[200px] gap-3 p-4 ${darkNavigationMenuStyles.content} border-none`}>
+                    <li>
+                      <Link
+                        to="/services/incident-response"
+                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
+                      >
+                        Incident Response
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/services/cyber-assesment"
+                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
+                      >
+                        Cybersecurity Assesment
+                      </Link>
+                    </li>
+                     <li>
+                      <Link
+                        to="/services/endpoint-monitoring"
+                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
+                      >
+                        Endpoint Monitoring
+                      </Link>
+                    </li>
+                     <li>
+                      <Link
+                        to="/services/digital-forensics"
+                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
+                      >
+                        Digital Forensics
+                      </Link>
+                    </li>
+                     <li>
+                      <Link
+                        to="/services/data-recovery"
+                        className={`block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors ${darkNavigationMenuStyles.item}`}
+                      >
+                        Data Recovery
+                      </Link>
+                    </li>
+
+                  </ul>
+                </NavigationMenuContent>
+              </NavigationMenuItem>
+                <NavigationMenuItem>
+                <button
+                  onClick={() => {
+                    navigate('/specialized-government-services')
+                  }}
+                  className={`${navigationMenuTriggerStyle()} ${darkNavigationMenuStyles.trigger}`}
+                >
+                  Specialized Government Services
+                </button>
+              </NavigationMenuItem>
+                 <NavigationMenuItem>
+                <button
+                  onClick={() => {
+                   
+                    scrollToSection("contact")
+                  }}
+                  className={`${navigationMenuTriggerStyle()} ${darkNavigationMenuStyles.trigger}`}
+                >
+                 Contact Us
+                </button>
+              </NavigationMenuItem>
+          
             </NavigationMenuList>
           </NavigationMenu>
         </nav>
