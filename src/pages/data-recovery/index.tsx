@@ -127,7 +127,7 @@ function DataRecovery() {
                 attempt. -
               </p>
 
-              <div className="h-48 bg-slate-100">
+              <div className="h-48 bg-slate-100 mt-8">
                 <img
                   src="../mon.gif"
                   alt="Proactive Security"
