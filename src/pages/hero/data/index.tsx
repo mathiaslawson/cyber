@@ -15,6 +15,11 @@ export const clientLogos = [
   "/logos/logo5.avif",
 ];
 
+export const digitalLogos = [
+  "/logos/logo4.avif",
+  "/logos/logo5.avif",
+];
+
 // Carousel Banners
 export const carouselBanners = [
   {
