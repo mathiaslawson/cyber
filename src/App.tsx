@@ -7,6 +7,7 @@ import EndpointMontioring from './pages/endpoint-monitoring';
 import CyberSecurityAssesment from './pages/cybersecurity-assesment';
 import IncidentResponse from './pages/incident-response';
 import SpecializedGovernmentServices from './pages/specialized-government-services';
+import Footer from './components/global/footer';
 
 
 
@@ -39,6 +40,7 @@ function App() {
             <Route path="/specialized-government-services" element={<SpecializedGovernmentServices />} />
           </Routes>
         </main>
+        <Footer />
       </div>
     </Router>
   );

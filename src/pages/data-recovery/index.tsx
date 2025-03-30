@@ -10,7 +10,7 @@ function DataRecovery() {
               <div className="flex justify-center flex-col items-center">
                 <div className="px-4 text-center mb-8">
                   <img
-                    src={"..https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXgpcdboE5pm9kYi6jNdsCcV0HfMrKnQe7XJPt"}
+                    src={"https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXgpcdboE5pm9kYi6jNdsCcV0HfMrKnQe7XJPt"}
                     alt={`logo`}
                     className="w-[150px]"
                   />
@@ -21,12 +21,12 @@ function DataRecovery() {
 
                 <p className="mt-2 text-neutral-800/60 text-lg leading-[30px] max-w-md text-center">
                   <span className="text-red-700 text-2xl mr-3 font-bold">
-                    CTG
+                    BKY-CYBER
                   </span>
                   understand how valuable your data is — it's your livelihood,
                   your memories, your connections and in worst-case scenarios
                   your evidence — a lot of times it is all of the above. Which
-                  is why CTG has the best women and men in the field. Our team
+                  is why BKY-CYBER has the best women and men in the field. Our team
                   is constantly evolving to keep up with the newest technology,
                   so that you can sleep easy at night knowing that even on the
                   toughest cases we are working together to exhaust every
@@ -35,7 +35,7 @@ function DataRecovery() {
 
                 <div className="px-4 text-center mt-8">
                   <img
-                    src={"..https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXYwUqRhv1hCLSAxBDibPMf92dGXnpgWjkoKFm"}
+                    src={"https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXYwUqRhv1hCLSAxBDibPMf92dGXnpgWjkoKFm"}
                     alt={`logo`}
                     className="w-[150px]"
                   />
@@ -52,7 +52,7 @@ function DataRecovery() {
               </p>
               <p className="mt-10 text-neutral-800/60 text-lg leading-[30px] max-w-xl">
                 <span className="text-red-700 text-2xl mr-3 font-bold">
-                  CTG
+                  BKY-CYBER
                 </span>
                 offers world class Digital Forensics & Data Recovery and s
                 ISO17025:2017 Accredited - The international gold standard,
@@ -65,7 +65,7 @@ function DataRecovery() {
 
               <div className="h-48 bg-slate-100 mt-5">
                 <img
-                  src="../mon.gif"
+                  src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"
                   alt="Proactive Security"
                   className="w-full h-full object-cover"
                 />
@@ -77,7 +77,7 @@ function DataRecovery() {
               </p>
               <p className="mt-10 text-neutral-800/60 text-lg leading-[30px] max-w-xl">
                 <span className="text-red-700 text-2xl mr-3 font-bold">
-                  CTG
+                  BKY-CYBER
                 </span>
                 offers advanced solutions for data loss situations. We have the
                 technical experience to recover your critical data whether you
@@ -105,7 +105,7 @@ function DataRecovery() {
 
               <div className="h-48 bg-slate-100 mt-5 mb-5">
                 <img
-                  src="../mon.gif"
+                  src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"
                   alt="Proactive Security"
                   className="w-full h-full object-cover"
                 />
@@ -116,7 +116,7 @@ function DataRecovery() {
               </p>
               <p className="mt-10 text-neutral-800/60 text-lg leading-[30px] max-w-xl">
                 <span className="text-red-700 text-2xl mr-3 font-bold">
-                  CTG
+                  BKY-CYBER
                 </span>
                 offers world class Digital Forensics & Data Recovery and s
                 ISO17025:2017 Accredited - The international gold standard,
@@ -129,7 +129,7 @@ function DataRecovery() {
 
               <div className="h-48 bg-slate-100 mt-8">
                 <img
-                  src="../mon.gif"
+                  src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"
                   alt="Proactive Security"
                   className="w-full h-full object-cover"
                 />

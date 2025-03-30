@@ -30,12 +30,12 @@ export const carouselBanners = [
   {
     title: "The MOST important data",
     subtitle: "in the world is YOURS",
-    backgroundImage: "../slide.gif",
+    backgroundImage: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD7LRJwpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz",
   },
   {
     title: "Incidents WILL HAPPEN",
     subtitle: "It's the response that COUNTS",
-    backgroundImage: "../slide2.gif",
+    backgroundImage: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXqZR28in56Zfc7NbkPYvzj1Beo4ryduJG9IKa",
   },
 ];
 
@@ -68,7 +68,7 @@ export const heroServices = [
     description:
       "Advanced, world-class digital forensics and data recovery for government agencies, private companies, and the general public. Our lab is ISO17025:2017 Accredited – The international gold standard.",
     icon: <ShieldCheck className="w-10 h-10 text-white" />,
-    image: "../type.gif",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXTKCK0GeTQ2oRVOjdGJDF8wiqU36v7ynaYklm",
   },
   {
     title: "Incident Response",
@@ -89,7 +89,7 @@ export const heroServices = [
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "../slide2.gif",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXqZR28in56Zfc7NbkPYvzj1Beo4ryduJG9IKa",
   },
    {
     title: "Incident Response",

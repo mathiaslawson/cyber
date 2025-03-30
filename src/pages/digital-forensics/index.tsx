@@ -65,17 +65,17 @@ function DigitalForensics() {
         <section className="flex flex-col md:flex-row w-full min-h-screen">
           <div className="md:w-1/2 h-64 md:h-auto bg-slate-100">
             <img
-              src="../mon.gif"
+              src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"
               alt="Proactive Security"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="md:w-1/2 p-6 flex flex-col items-center justify-center text-center">
             <p className="font-bold text-3xl max-w-md text-red-700">
-              CTG Offers World Class Digital Forensics & Data Recovery
+              BKY-CYBER Offers World Class Digital Forensics & Data Recovery
             </p>
             <p className="mt-10 text-neutral-800/60 text-lg leading-[30px] max-w-md">
-              CTG Offers World Class Digital Forensics & Data Recovery And
+              BKY-CYBER Offers World Class Digital Forensics & Data Recovery And
               ISO17025:2017 Accredited - The international gold standard, equal
               to the US FBI and DEA. Our Digital Forensics capacity supports
               Expert Testimony in civil courts or for Criminal Prosecution
@@ -106,7 +106,7 @@ function DigitalForensics() {
         <section className="flex flex-col md:flex-row-reverse w-full min-h-screen">
           <div className="md:w-1/2 h-64 md:h-auto bg-slate-100">
             <img
-              src="../slide.gif"
+              src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD7LRJwpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz"
               alt="Zero Trust Architecture"
               className="w-full h-full object-cover"
             />

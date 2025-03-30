@@ -184,7 +184,7 @@ export const HeroSection = () => {
       id="contact" 
       className="relative py-16 bg-cover bg-center"
       style={{ 
-        backgroundImage: 'url("../contact.png")', 
+        backgroundImage: 'url("https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXtq6pkLcmxkKJhCFpAIS89osjUyMreHq03BO2")', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundBlendMode: 'overlay',

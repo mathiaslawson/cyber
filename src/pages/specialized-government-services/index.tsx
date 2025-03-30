@@ -15,7 +15,7 @@ function SpecializedGovernmentServices() {
                   Investigations Support
                 </h1>
                 <h1 className="text-xl max-w-md font-bold text-red-900 mb-4 text-center">
-                  CTG has deep experience supporting government investigations.
+                  BKY-CYBER has deep experience supporting government investigations.
                 </h1>
               </header>
 
@@ -33,7 +33,7 @@ function SpecializedGovernmentServices() {
               <p className="text-neutral-800/60 text-lg leading-relaxed text-center mt-5">
                 <span className="text-red-700 text-2xl mr-4 font-bold">
                   {" "}
-                  CTG's
+                  BKY-CYBER's
                 </span>
                 lab performs investigations on many types of criminal cases. We
                 have experts with experience in technology, intelligence, and
@@ -49,12 +49,12 @@ function SpecializedGovernmentServices() {
           <div className="md:w-2/3">
             <div className="grid grid-cols-2 h-full">
               <img
-                src="../slide.gif"
+                src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD7LRJwpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz"
                 alt="Data Recovery Visual 1"
                 className="w-full h-full object-cover"
               />
               <img
-                src="../slide2.gif"
+                src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXqZR28in56Zfc7NbkPYvzj1Beo4ryduJG9IKa"
                 alt="Data Recovery Visual 2"
                 className="w-full h-full object-cover"
               />
@@ -65,7 +65,7 @@ function SpecializedGovernmentServices() {
         {/* Centered Card Section */}
         <div
           className="py-16 px-4 bg-white bg-cover bg-center bg-no-repeat h-[100svh]"
-          style={{ backgroundImage: "url('../contact.png')" }}
+          style={{ backgroundImage: "url('https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXtq6pkLcmxkKJhCFpAIS89osjUyMreHq03BO2')" }}
         >
           <div className="max-w-3xl mx-auto bg-white/90 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden h-[80svh]">
             <div className="p-8">
@@ -109,14 +109,14 @@ function SpecializedGovernmentServices() {
             <section className="flex flex-col md:flex-row w-full min-h-screen">
               <div className="md:w-1/2 h-64 md:h-auto bg-slate-100">
                 <img
-                  src="../mon.gif"
+                  src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"
                   alt="Proactive Security"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="md:w-1/2 p-6 flex flex-col items-center justify-center text-center">
                 <p className="font-bold text-3xl max-w-md text-red-700">
-                  CTG offers all government
+                  BKY-CYBER offers all government
                 </p>
                 <p className="mt-10 text-neutral-800/60 text-lg leading-[30px] max-w-md">
                   Agencies (local, state, and federal), schools, and hospitals
@@ -135,7 +135,7 @@ function SpecializedGovernmentServices() {
             <section className="flex flex-col md:flex-row-reverse w-full min-h-screen">
               <div className="md:w-1/2 h-64 md:h-auto bg-slate-100">
                 <img
-                  src="../slide.gif"
+                  src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD7LRJwpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz"
                   alt="Zero Trust Architecture"
                   className="w-full h-full object-cover"
                 />
@@ -143,7 +143,7 @@ function SpecializedGovernmentServices() {
               <div className="md:w-1/2 p-6 flex flex-col items-center justify-center text-center">
                 <p className="font-bold text-3xl max-w-md text-red-700 mt-6 mb-6">
                   Here are Some of the Reasons Why Government Agencies Choose
-                  CTG's Lab
+                  BKY-CYBER's Lab
                 </p>
                 <ul className="space-y-3">
                   <div className="flex justify-center">
@@ -175,7 +175,7 @@ function SpecializedGovernmentServices() {
             <section className="flex flex-col md:flex-row w-full min-h-screen">
               <div className="md:w-1/2 h-64 md:h-auto bg-slate-100">
                 <img
-                  src="../mon.gif"
+                  src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"
                   alt="Proactive Security"
                   className="w-full h-full object-cover"
                 />

@@ -18,12 +18,12 @@ function IncidentResponse() {
         </div>
 
         <div className="flex justify-center mt-10">
-          <img src="../mon.gif"></img>
+          <img src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXu5uCZIScDlK02NwM5nXVbg7AeuOQJ3Ttimrv"></img>
         </div>
 
         <div>
           <p className="leading-[40px] mt-10 text-xl">
-            In the event of a cybersecurity incident, <span className="text-red-600 font-bold text-4xl">CTG</span> uses uses the industry
+            In the event of a cybersecurity incident, <span className="text-red-600 font-bold text-4xl">BKY-CYBER</span> uses uses the industry
             standard best practice incident response guidelines, following the
             NIST Computer Security Incident Handling Guide 800-61 Revision
             2-recommended seven step process: Prepare; Identify; Contain;
