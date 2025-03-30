@@ -11,7 +11,7 @@ export const HeroSection = () => {
  
   return (
     <div className="bg-black text-white -mt-4">
-      <section className="relative w-full min-h-screen flex items-center bg-[#101010] overflow-hidden" >
+      <section className="relative w-full min-h-screen flex items-center bg-[#000000] overflow-hidden" >
         <div className="container mx-auto px-4 grid md:grid-cols-2 gap-8 items-center relative z-10">
           <motion.div 
             initial={{ opacity: 0, x: -50 }}
@@ -48,7 +48,7 @@ export const HeroSection = () => {
             className="hidden md:flex justify-center items-center"
           >
             <img 
-              src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD8ZFFzpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz.gif" 
+              src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD8ZFFzpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz" 
               alt="Cyber Security Visualization" 
               className="w-full max-w-4xl rounded-lg "
             />
