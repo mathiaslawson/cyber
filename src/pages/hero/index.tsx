@@ -48,7 +48,7 @@ export const HeroSection = () => {
             className="hidden md:flex justify-center items-center"
           >
             <img 
-              src="../glow.gif" 
+              src="https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXD8ZFFzpYwEaLRm2Jjro9eGZ7U4dBOfKVTpnz.gif" 
               alt="Cyber Security Visualization" 
               className="w-full max-w-4xl rounded-lg "
             />
