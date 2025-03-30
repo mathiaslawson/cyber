@@ -25,7 +25,7 @@ export const carouselBanners = [
   {
     title: "Advanced Cyber Security Solutions",
     subtitle: "Protecting Your Digital Infrastructure",
-    backgroundImage: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
+    backgroundImage: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXbV2SOLjyAIMLUdhG9RYxq8PCJOlfbKEXwFTo",
   },
   {
     title: "The MOST important data",
@@ -75,27 +75,27 @@ export const heroServices = [
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXbV2SOLjyAIMLUdhG9RYxq8PCJOlfbKEXwFTo",
   },
    {
     title: "Incident Response",
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXbV2SOLjyAIMLUdhG9RYxq8PCJOlfbKEXwFTo",
   },
    {
     title: "Incident Response",
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
+    image: "../slide2.gif",
   },
    {
     title: "Incident Response",
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXbV2SOLjyAIMLUdhG9RYxq8PCJOlfbKEXwFTo",
   },
 ];
