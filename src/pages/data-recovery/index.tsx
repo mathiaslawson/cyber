@@ -10,7 +10,7 @@ function DataRecovery() {
               <div className="flex justify-center flex-col items-center">
                 <div className="px-4 text-center mb-8">
                   <img
-                    src={"../logos/logo5.avif"}
+                    src={"..https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXgpcdboE5pm9kYi6jNdsCcV0HfMrKnQe7XJPt"}
                     alt={`logo`}
                     className="w-[150px]"
                   />
@@ -35,7 +35,7 @@ function DataRecovery() {
 
                 <div className="px-4 text-center mt-8">
                   <img
-                    src={"../logos/logo4.avif"}
+                    src={"..https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXYwUqRhv1hCLSAxBDibPMf92dGXnpgWjkoKFm"}
                     alt={`logo`}
                     className="w-[150px]"
                   />

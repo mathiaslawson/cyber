@@ -8,16 +8,16 @@ import {
 
 // Client Logos with monochrome paths
 export const clientLogos = [
-  "/logos/logo1.avif",
-  "/logos/logo2.avif",
-  "/logos/logo3.avif",
-  "/logos/logo4.avif",
-  "/logos/logo5.avif",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXaPExXymdiTvpeCW5XEkQUg8LzFtcJB7j1Shs",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXbgFlilyAIMLUdhG9RYxq8PCJOlfbKEXwFTo6",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXjnxcPbNMNVuLmRGqs78o032xDKd59fZIWSnv",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXYwUqRhv1hCLSAxBDibPMf92dGXnpgWjkoKFm",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXgpcdboE5pm9kYi6jNdsCcV0HfMrKnQe7XJPt",
 ];
 
 export const digitalLogos = [
-  "/logos/logo4.avif",
-  "/logos/logo5.avif",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXYwUqRhv1hCLSAxBDibPMf92dGXnpgWjkoKFm",
+  "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXgpcdboE5pm9kYi6jNdsCcV0HfMrKnQe7XJPt",
 ];
 
 // Carousel Banners
@@ -25,7 +25,7 @@ export const carouselBanners = [
   {
     title: "Advanced Cyber Security Solutions",
     subtitle: "Protecting Your Digital Infrastructure",
-    backgroundImage: "../for.gif",
+    backgroundImage: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
   },
   {
     title: "The MOST important data",
@@ -75,27 +75,27 @@ export const heroServices = [
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "../for.gif",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
   },
    {
     title: "Incident Response",
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "../for.gif",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
   },
    {
     title: "Incident Response",
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "../for.gif",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
   },
    {
     title: "Incident Response",
     description:
       "Utilizing industry standard best practice incident response guidelines following NIST Computer Security Incident Handling Guide. A systematic seven-step process to manage and mitigate cybersecurity incidents.",
     icon: <Network className="w-10 h-10 text-white" />,
-    image: "../for.gif",
+    image: "https://5l0prg7sfe.ufs.sh/f/eqhzCUbWhUpXoRlsj4gqZGruApWmeviscRMKnIdEO1w29J05",
   },
 ];
